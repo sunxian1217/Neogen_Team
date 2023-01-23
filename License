@@ -1,21 +1,122 @@
-MIT License
+Copyright (c) 2023, Michigan State University
+              Contributors: Uta Nishii, Tabitha Weinbrenner, Xian Sun, Jackson Peacock 
+              Affiliation: Neogen
+              
+All rights reserved.
 
-Copyright (c) 2023 Tabitha SW
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+* Redistributions of source code must retain the above copyright notice, NDA agreement, IP agreement, this
+  list of conditions and the following disclaimer.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+This software was developed based on the terms of the following NDA and IP agreements. 
+
+Non-Disclosure Obligations
+  COMPANY possesses and considers to be proprietary and confidential certain information, 
+  drawings, data, software, documentation, business plans and know-how relating to technology 
+  owned by COMPANY (all such confidential information, drawings, data, software, 
+  documentation, business plans and know-how are hereinafter referred to as “CONFIDENTIAL 
+  INFORMATION”). It is understood that STUDENT and COMPANY are both interested in having 
+  STUDENT receive access to such CONFIDENTIAL INFORMATION for the sole purpose of 
+  working on PROJECT. Because such CONFIDENTIAL INFORMATION is proprietary and 
+  confidential to COMPANY, and to provide an appropriate basis by which such CONFIDENTIAL 
+  INFORMATION can be made available to STUDENT, the parties agree to the following terms 
+  and provisions:
+    1. STUDENT will treat as confidential, and not disclose to any other person, all 
+    CONFIDENTIAL INFORMATION which is or has been made available, directly or indirectly, 
+    to STUDENT, and will treat it with the same degree of care that it would treat 
+    CONFIDENTIAL INFORMATION of its own.
+    2. STUDENT agrees to only use CONFIDENTIAL INFORMATION for PROJECT and not for any 
+    other purpose, whether commercial or non-commercial.
+    3. STUDENT agrees not to make any copies of CONFIDENTIAL INFORMATION unless 
+    STUDENT has written permission from COMPANY.
+    4. The non-disclosure obligations of STUDENT under this agreement do not apply to 
+    CONFIDENTIAL INFORMATION which: (a) at the time of the disclosure is generally 
+    available to the public or thereafter becomes generally available to the public through no 
+    act or omission of STUDENT; or (b) STUDENT can show by written records to have been in 
+    STUDENT’s possession prior to the time of the disclosure and was not acquired, directly or 
+    indirectly, from COMPANY. Furthermore, STUDENT may disclose Confidential Information 
+    pursuant to an order of a court or governmental agency, provided that STUDENT first uses 
+    reasonable efforts to provide COMPANY with advance notice to permit COMPANY to seek a 
+    protective order or otherwise restrict the disclosure of the Confidential Information.
+    5. STUDENT shall return all materials, drawings, data, memoranda, and written information in 
+    STUDENT’s possession relating to such CONFIDENTIAL INFORMATION, including copies 
+    thereof, to COMPANY, either upon request by COMPANY or at the completion of PROJECT.
+    CMSE495 Experiential Learning in Data Science, Collaborative Design Project
+    Non-Disclosure Agreement
+    Page 2 of 2 Confidential
+    6. Nothing contained in this agreement shall be construed to grant to STUDENT any rights in 
+    respect of such CONFIDENTIAL INFORMATION other than for stated PROJECT.
+    General Terms
+    The parties agree that any xerographically or electronically reproduced copy of this fully-executed agreement shall have the same legal force and effect as any copy bearing original 
+    signatures of the parties. This agreement constitutes the entire agreement between the parties 
+    concerning the subject matter thereof.
+    STUDENT understands they are not required to participate in PROJECT. 
+    STUDENT acknowledges and agrees that all information, including CONFIDENTIAL 
+    INFORMATION, transmitted by COMPANY is provided "AS IS" and without warranty, express, 
+    implied or otherwise, regarding its use, results, accuracy or performance.
+    This Agreement shall be governed by and construed in accordance with the laws of the State of 
+    Michigan, except that any Michigan’s choice-of-law provisions that would serve to apply the 
+    law of a different state or country shall not apply. Any dispute under this Agreement not 
+    otherwise resolved by the parties, shall be resolved by a court of competent jurisdiction in 
+    Ingham County, Michigan, and the parties agree to the exclusive jurisdiction of such courts.
+    STUDENT’s obligations and responsibilities under this agreement will continue after 
+    completion of PROJECT and/or conclusion of their involvement with PROJECT.
+    
+Assignment of Intellectual Property Rights
+  STUDENT understands that they have contributed, or may be contributing, to the 
+  development of PROJECT, including the creation of and making of works of authorship, 
+  applications, code, inventions, creations, materials, papers, and/or discoveries made
+  (conceived or first reduced to practice), and any and all other intellectual property, in the
+  course of STUDENT’s work on PROJECT (hereafter “INVENTIONS”). STUDENT agrees as a 
+  condition of participating in PROJECT, and in consideration for the benefits obtained by 
+  working on PROJECT, to assign, and STUDENT hereby assigns, to COMPANY all rights, title, 
+  and interest in any and all INVENTIONS.
+  STUDENT acknowledges that by assigning rights in any and all INVENTIONS to COMPANY, 
+  COMPANY will be the sole owner of INVENTIONS and will manage the rights in 
+  INVENTIONS and be solely responsible for deciding what form of protection, if any, to 
+  pursue and the form and extent of commercialization of INVENTIONS, if any.
+
+Cooperation with COMPANY
+  STUDENT agrees to inform COMPANY of all INVENTIONS and to reasonably cooperate with 
+  COMPANY, at COMPANY’s expense, to secure COMPANY’s rights in the intellectual property 
+  (including copyright(s), patent(s), trademark(s), trade secret(s), or other means of 
+  protecting inventions) related to INVENTIONS.
+  CMSE495 Experiential Learning in Data Science, Collaborative Design Project
+  Intellectual Property Agreement
+  Page 2 of 2 Confidential
+  STUDENT agrees to make themselves reasonably available to COMPANY personnel, 
+  including its attorneys and agents, to sign all papers, take all rightful oaths, and perform all 
+  acts which may be necessary, desirable or convenient for fulfilling this assignment and for 
+  securing and maintaining intellectual property to INVENTIONS in any and all countries and 
+  for vesting title in COMPANY, its successors, assigns, and legal representatives.
+
+General Terms
+  The parties agree that any xerographically or electronically reproduced copy of this fully-executed agreement shall have the same legal force and effect as any copy bearing original 
+  signatures of the parties. This agreement constitutes the entire agreement between the 
+  parties concerning the subject matter thereof.
+  STUDENT understands they are not required to participate in PROJECT. 
+  This Agreement shall be governed by and construed in accordance with the laws of the 
+  State of Michigan, except that any Michigan’s choice-of-law provisions that would serve to 
+  apply the law of a different state or country shall not apply. Any dispute under this 
+  Agreement not otherwise resolved by the parties, shall be resolved by a court of competent 
+  jurisdiction in Ingham County, Michigan, and the parties agree to the exclusive jurisdiction 
+  of such courts.
+  STUDENT’s obligations and responsibilities under this agreement will continue after 
+  completion of PROJECT and/or conclusion of their involvement with PROJECT.
